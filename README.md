@@ -11,6 +11,7 @@ Poster: https://www.canva.com/design/DAG-T7rL2gg/clpw8hnXjrex6X6NPedL8w/edit?utm
 
 Code (documentation):
 a. Modelling https://github.com/CalvinS196/Heart-Disease-Detection-from-Heart-Sound/blob/main/OptimizedFeatureRF.m
+
 b. Inference testing https://github.com/CalvinS196/Heart-Disease-Detection-from-Heart-Sound/blob/main/HeartClassifier.m
 
 Demo Video:
