@@ -1,5 +1,5 @@
 # Heart-Disease-Detection-from-Heart-Sound
-This project implements SVM classifier algorithm and MFCC feature extraction to classify and detect disease from a heart sound captured in a digital sthetoscope.
+This project implements Random Forest classifier algorithm and MFCC and spectral features extraction to classify and detect disease from a heart sound captured in a digital sthetoscope.
 Dataset: Torabi, Yasaman; Shirani, Shahram; Reilly, James P. (2025), “HLS-CMDS: Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope”, Mendeley Data, V3, doi: 10.17632/8972jxbpmp.3
 
 This paper includes the full description of the project, methodology and analysis of the result
